@@ -1,0 +1,98 @@
+Manifest-Version: 1.0
+Build-Jdk: 1.7.0_55
+Built-By: david
+Application-Name: Your Digital File
+Permissions: all-permissions
+Created-By: Apache Maven 3.1.1
+Caller-Allowable-Codebase: https://www.yourdigitalfile.com.au *.www.yo
+ urdigitalfile localhost 127.0.0.1
+Archiver-Version: Plexus Archiver
+Codebase: https://www.yourdigitalfile.com.au *.www.yourdigitalfile loc
+ alhost 127.0.0.1
+
+Name: au/com/yourdigitalfile/crypto_applet/CryptoApplet$4.class
+SHA-256-Digest: LYJu63KIhNl2+1lwWTMMmxzvT9PCfPrQCqwAeuFaOL8=
+
+Name: au/com/yourdigitalfile/crypto_applet/img/crypto_off.png
+SHA-256-Digest: +qCIuc7OFS23GUXvYfKAhKqLk8KUxB1yqC8i38mtFJU=
+
+Name: au/com/yourdigitalfile/crypto_applet/util/Util.class
+SHA-256-Digest: 7Tq8icAsuEPQ4eIVBeU8X+1uXyeb+gy3DGiVFb8XKuo=
+
+Name: au/com/yourdigitalfile/crypto_applet/CryptoApplet$2.class
+SHA-256-Digest: uB6wW58TEWPzb1PQfkzLsYzRl9fK1elRtoXhver9auw=
+
+Name: au/com/yourdigitalfile/crypto_applet/crypto/LockManager.class
+SHA-256-Digest: ML86t0dvkOEVoXBqt1TKfzcxHeoKRr15Ony1nq9axVo=
+
+Name: au/com/yourdigitalfile/crypto_applet/ui/UIHandler.class
+SHA-256-Digest: n0F993ONS2itV8YLtdq9kOhCDYj8KDotwrShT3bAahM=
+
+Name: au/com/yourdigitalfile/crypto_applet/crypto/CryptoHandler.class
+SHA-256-Digest: ppEoXNz78yvVVYnfEMeJgIYM5E5r60SkjY6yJghwF3I=
+
+Name: META-INF/maven/au.com.yourdigitalfile/crypto_applet/pom.xml
+SHA-256-Digest: T+xSmDQoz1GgnRq3qEpNaRP3oVeIe1ujGn+kBhLuz88=
+
+Name: au/com/yourdigitalfile/crypto_applet/util/Base64Utils.class
+SHA-256-Digest: EWxZq0XfP5D6QJYm9J2A2O6I9KwvDpyxwelMCwJK0W8=
+
+Name: au/com/yourdigitalfile/crypto_applet/os/SaveKeystoreFileChooser.
+ class
+SHA-256-Digest: 4kiScHwQlJgxNlnEX+7KdazEfqtUEdHz30eK8ifc7NI=
+
+Name: META-INF/maven/au.com.yourdigitalfile/crypto_applet/pom.properti
+ es
+SHA-256-Digest: g1n8NQS+m6HefJomgntiy+L3iOMdMQt2y4X9M2mUOKc=
+
+Name: au/com/yourdigitalfile/crypto_applet/http/UploadHandler.class
+SHA-256-Digest: rAlzdGfi5JMPMV9iae6WPsKip1gZX+8/TS1F55Cinyc=
+
+Name: au/com/yourdigitalfile/crypto_applet/CryptoApplet$8.class
+SHA-256-Digest: cp7wT7W1MC1gtmjU5a6E6483Jz2WKfjdNQ3j7xiyjVw=
+
+Name: au/com/yourdigitalfile/crypto_applet/CryptoApplet$1.class
+SHA-256-Digest: 6bpMr9U0B93ITYdjQUQoSUHNYyNtzDrvq686EyAsPSI=
+
+Name: au/com/yourdigitalfile/crypto_applet/CryptoApplet$3.class
+SHA-256-Digest: I3hwjaoO6qMnxHOfCan6ZtTqdZXciAGo0DtlgP6L1Co=
+
+Name: au/com/yourdigitalfile/crypto_applet/CryptoApplet.class
+SHA-256-Digest: KbJGfqmuttuLa9ycHuPAl2cWodhgNmnarLIJ++fsM14=
+
+Name: au/com/yourdigitalfile/crypto_applet/img/crypto_on.png
+SHA-256-Digest: Aj/x6ZqlHXSKYyRPcbHszxczPJkQFTQ/CVf9/JKuRus=
+
+Name: au/com/yourdigitalfile/crypto_applet/CryptoApplet$5.class
+SHA-256-Digest: f7I565H28VGTKeHDXnWQCClPAkwb69LnID2oQ/LvnCM=
+
+Name: au/com/yourdigitalfile/crypto_applet/os/OSHandler.class
+SHA-256-Digest: uo/VsOOXk6llqsra6zyO5+tJ2pITDy508rexIRiztN4=
+
+Name: au/com/yourdigitalfile/crypto_applet/CryptoApplet$7.class
+SHA-256-Digest: SsI6XYgvQZx8pUcvmad9eJY/3LC14BxFrJQ3kfhnzxw=
+
+Name: au/com/yourdigitalfile/crypto_applet/CryptoApplet$10.class
+SHA-256-Digest: i+tJyxnn00/XqFT2ULiep1/Q2f52N0ZEkNlow0sZ+Qk=
+
+Name: au/com/yourdigitalfile/crypto_applet/CryptoApplet$9.class
+SHA-256-Digest: aJsel2hm9QXj/KFb0tchTtm177aZxz797UV+vM+A99w=
+
+Name: au/com/yourdigitalfile/crypto_applet/browser/BrowserHandler.clas
+ s
+SHA-256-Digest: wGu5UnPrcHQb22IYM4Zcjk4bxs/hX/6DBohCCeHnG5A=
+
+Name: au/com/yourdigitalfile/crypto_applet/ui/ImagePanel.class
+SHA-256-Digest: 2QelZMlFRxhJxKEVJ+I0z/62Zxx7b1LhzTzyr0M+MUQ=
+
+Name: au/com/yourdigitalfile/crypto_applet/crypto/SignatureHandler.cla
+ ss
+SHA-256-Digest: aNMhVMG1xJRLVwMq9mw5mXYsrUwt9s6pTmy4kQmdd84=
+
+Name: au/com/yourdigitalfile/crypto_applet/CryptoApplet$6.class
+SHA-256-Digest: 5DR6rWk57/GR3QWs8TUDtMkUCkq4NKDtv+FuIUjX0zs=
+
+Name: au/com/yourdigitalfile/crypto_applet/CryptoApplet$BrowseType.cla
+ ss
+SHA-256-Digest: WioON8zkE5tiICPb5KvkKs9T0Bu4RGlnomY6JBW2Tj0=
+
